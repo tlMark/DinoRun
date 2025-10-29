@@ -103,12 +103,12 @@ TextureImporter:
       name: UI Start Down_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9
-        width: 705
-        height: 336
+        x: 69
+        y: 98
+        width: 581
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a665f878ee28a042ab5857b95ec0d58
     internalID: 0
     vertices: []
     indices: 

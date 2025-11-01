@@ -435,7 +435,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-44.46109,"y":-69.9509},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"1588e6bf-a222-4f50-b0fa-6a2cd9bbbcad","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"specifyFallback":false,"kind":"Saved","defaultValues":{"name":{"$content":"HiScore","$type":"System.String"}},"position":{"x":-34.0,"y":-5.0},"guid":"07b76814-7732-48fb-8722-cc68e4940ad3","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"chainable":false,"parameterNames":["format","arg0"],"member":{"name":"Format","parameterTypes":["System.String","System.Object"],"targetType":"System.String","targetTypeName":"System.String","$version":"A"},"defaultValues":{"%format":{"$content":"{0:0000}","$type":"System.String"}},"position":{"x":-57.0,"y":-145.0},"guid":"80713da2-4022-464c-adc8-219ba17057ac","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"14"},{"chainable":false,"member":{"name":"text","parameterTypes":null,"targetType":"UnityEngine.UI.Text","targetTypeName":"UnityEngine.UI.Text","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"","$type":"System.String"}},"position":{"x":143.0,"y":-145.0},"guid":"2d241944-c6d8-4be7-9c79-91f62346e69c","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"18"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"5271daf1-3c0c-48eb-b569-5fa82d8268f0","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"exit","destinationUnit":{"$ref":"18"},"destinationKey":"assign","guid":"96901d31-48f9-495b-818f-83d2c9c4abe6","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"%arg0","guid":"575058f7-0f83-40df-a30a-30edff666674","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"result","destinationUnit":{"$ref":"18"},"destinationKey":"input","guid":"a3d0e68f-c224-4ed6-b91c-9fa79a70b8ea","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-79.0,"yMin":-185.0,"xMax":315.0,"yMax":100.0},"label":"\ud558\uc774\uc2a4\ucf54\uc5b4
+    _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":62.53891,"y":-70.9509},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"1588e6bf-a222-4f50-b0fa-6a2cd9bbbcad","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"specifyFallback":false,"kind":"Saved","defaultValues":{"name":{"$content":"HiScore","$type":"System.String"}},"position":{"x":-32.0,"y":-5.0},"guid":"07b76814-7732-48fb-8722-cc68e4940ad3","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"chainable":false,"parameterNames":["format","arg0"],"member":{"name":"Format","parameterTypes":["System.String","System.Object"],"targetType":"System.String","targetTypeName":"System.String","$version":"A"},"defaultValues":{"%format":{"$content":"{0:0000}","$type":"System.String"}},"position":{"x":-57.0,"y":-145.0},"guid":"80713da2-4022-464c-adc8-219ba17057ac","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"14"},{"chainable":false,"member":{"name":"text","parameterTypes":null,"targetType":"UnityEngine.UI.Text","targetTypeName":"UnityEngine.UI.Text","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"","$type":"System.String"}},"position":{"x":143.0,"y":-145.0},"guid":"2d241944-c6d8-4be7-9c79-91f62346e69c","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"18"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"5271daf1-3c0c-48eb-b569-5fa82d8268f0","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"exit","destinationUnit":{"$ref":"18"},"destinationKey":"assign","guid":"96901d31-48f9-495b-818f-83d2c9c4abe6","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"%arg0","guid":"575058f7-0f83-40df-a30a-30edff666674","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"result","destinationUnit":{"$ref":"18"},"destinationKey":"input","guid":"a3d0e68f-c224-4ed6-b91c-9fa79a70b8ea","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-82.0,"yMin":-185.0,"xMax":298.0,"yMax":100.0},"label":"\ud558\uc774\uc2a4\ucf54\uc5b4
       \uc810\uc218 \ubd88\ub7ec\uc624\uae30","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"36235ffa-89b9-4c2e-bf04-0f58c20f343b","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}}'
     _objectReferences: []
 --- !u!114 &168303992
@@ -2721,7 +2721,7 @@ GameObject:
   - component: {fileID: 857502897}
   - component: {fileID: 857502896}
   m_Layer: 5
-  m_Name: Image
+  m_Name: GameOverImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3998,7 +3998,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: -1426204161754988749, guid: e228e9ba6fb0ad24dbfcd43e4398367c, type: 3}
     m_PressedSprite: {fileID: -1426204161754988749, guid: e228e9ba6fb0ad24dbfcd43e4398367c, type: 3}
     m_SelectedSprite: {fileID: -1426204161754988749, guid: e228e9ba6fb0ad24dbfcd43e4398367c, type: 3}
     m_DisabledSprite: {fileID: 0}
@@ -4275,7 +4275,7 @@ GameObject:
   - component: {fileID: 1610092266}
   - component: {fileID: 1610092269}
   m_Layer: 5
-  m_Name: Button
+  m_Name: ResetButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
